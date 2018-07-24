@@ -31,4 +31,14 @@ form span.req {
     /* display: none; */
 
 
+/* Form Background */
+
+form.wufoo {
+    margin: 20px 14px 0 14px;
+    padding: 0 0 20px 0;
+    position: relative;
+    background-color: #4D9FD2;
+}
+
+
 </style>
