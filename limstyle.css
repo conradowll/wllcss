@@ -2,13 +2,8 @@
 
 
 /* Titles + Logo*/
-#header {
-	display: none;
-}
-
-#logo {
-	display: none;
-}
+.info[class] {
+    display: none;
 
 
 /* Text Field Size */
